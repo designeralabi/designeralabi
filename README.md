@@ -6,6 +6,9 @@
 - 🤝🏿  let connect on: 
 [![Linkedin Badge](https://img.shields.io/badge/-designbyalabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/designbyalabi/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=designeralabi&repo=github-readme-stats?show_owner)](https://github.com/designeralabi/designeralabi)
+
+
 ## 👨‍💻 Technologies
 ### Language :
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
