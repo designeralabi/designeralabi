@@ -17,6 +17,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
 
+## 📈 Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=designeralabi&show_icons=true&theme=onedark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=designeralabi&theme=onedark" />
+</p>
 
 <!---
 designeralabi/designeralabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
