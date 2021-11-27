@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @designeralabi
-- 💞️ Passionate about design, front-end development and IOS Development
-- 👀 I’m interested in intern opportunity and open to offers
-- 🌱 I’m currently re-learning js & learning Swift
-- 📫 you can reach me @bdlkrmalabi@gmail.com
-- 🤝🏿 let connect on: 
+- 👋  Hi, I’m @designeralabi
+- 💞️  Passionate about design, front-end development and IOS Development
+- 👀  I’m interested in intern opportunity and open to offers
+- 🌱  I’m currently re-learning js & learning Swift
+- 📫  you can reach me 👉 bdlkrmalabi@gmail.com
+- 🤝🏿  let connect on: 
 [![Linkedin Badge](https://img.shields.io/badge/-designbyalabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/designbyalabi/)
 
 ## 👨‍💻 Technologies
