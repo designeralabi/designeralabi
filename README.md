@@ -1,8 +1,22 @@
 - 👋 Hi, I’m @designeralabi
-- 👀 I’m interested in software development & design 
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bdlkrmalabi@gmail.com
+- 💞️ Passionate about design, front-end development and IOS Development
+- 👀 I’m interested in intern opportunity and open to offers
+- 🌱 I’m currently re-learning js & learning Swift
+- 📫 you can reach me @bdlkrmalabi@gmail.com
+- 🤝🏿 let connect on: 
+[![Linkedin Badge](https://img.shields.io/badge/-designbyalabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/designbyalabi/)
+
+## 👨‍💻 Technologies
+### Language :
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Swift](https://img.shields.io/badge/-swift-FF0000?style=flat-square&logo=swift&logoColor=white)
+### Libraries & Framework :
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+<a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
+
 
 <!---
 designeralabi/designeralabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
