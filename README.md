@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @designeralabi
+- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m designeralabi
 - 💞️  Passionate about design, front-end development and IOS Development
 - 👀  I’m interested in intern opportunity and open to offers
 - 🌱  I’m currently re-learning js & learning Swift
