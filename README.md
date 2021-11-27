@@ -36,7 +36,7 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
 
 ### Social Network
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](t.me/seniortechy)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/seniortechy)
 ## 📈 Github Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=designeralabi&show_icons=true&theme=onedark" />
