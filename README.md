@@ -2,12 +2,11 @@
 - 💞️  Passionate about design, front-end development and IOS Development
 - 👀  I’m interested in intern opportunity and open to offers
 - 🌱  I’m currently re-learning js & learning Swift
-- 📫  you can reach me 👉 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto: bdlkrmalabi@gmail.com)
+- 📫  you can reach me 👉 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](<a href= "bdlkrmalabi@gmail.com"></a>)
 - 🤝🏿  let connect on: 
 [![Linkedin Badge](https://img.shields.io/badge/-designbyalabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/designbyalabi/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=designeralabi&repo=github-readme-stats&show_owner=true&theme=dark)](https://github.com/designeralabi/designeralabi)
-
 
 ## 👨‍💻 Technologies
 ### Language :
