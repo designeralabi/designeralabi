@@ -1,7 +1,7 @@
 - <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m designeralabi
 - 💞️  Passionate about design, front-end development and IOS Development
 - 👀  I’m interested in intern opportunity and open to offers
-- 🌱  I’m currently re-learning js & learning Swift
+- 🌱  I’m currently Vue Js & learning Swift
 - 📫  you can reach me 👉 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bdlkrmalabi@gmail.com)
 - 🤝🏿  let connect on: 
 [![Linkedin Badge](https://img.shields.io/badge/-designbyalabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/designbyalabi/)
